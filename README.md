@@ -22,7 +22,7 @@ This is controlled hackathon workspace access. Consumer-account recovery, genera
 
 Working YouCam integration and e-commerce value; source and one-to-three-minute video. Actual API execution still pending.
 
-Source is prepared and independently verified as recorded in verification.json when present. Cloud deployment, live sponsor proof, video and final submission are still pending. Repository: https://github.com/code-up-matrix/fitreceipt-devpost-2026.
+Source is prepared and independently verified as recorded in verification.json when present. Vercel hosting is deployed at https://fitreceipt-devpost-2026.vercel.app. Database provisioning, any required sponsor proof, video and final submission are still pending. Hosting does not establish production readiness. Repository: https://github.com/code-up-matrix/fitreceipt-devpost-2026.
 
 ## Attribution
 

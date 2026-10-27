@@ -1,0 +1,28 @@
+{
+  "projectId": "prj_SIYbiUGfZFVeukPJA5ttIBI3HjRK",
+  "teamId": "team_64IDAvx3sgtTRCQpQavfF3cG",
+  "deploymentId": "dpl_J3eNBD98XL6gjTxJDW7YMrg9TPRN",
+  "deploymentCommit": "31f7e998c335105295f7cc2dba6a35aa2be96d98",
+  "url": "https://fitreceipt-devpost-2026.vercel.app",
+  "target": "production",
+  "hostingReady": true,
+  "productionReady": false,
+  "databaseProvisioned": false,
+  "liveIntegrationVerified": false,
+  "submitted": false,
+  "health": {
+    "url": "https://fitreceipt-devpost-2026.vercel.app/api/health",
+    "status": 200,
+    "body": {
+      "application": "FitReceipt",
+      "status": "configuration_required",
+      "missing": [
+        "DATABASE_URL",
+        "YOUCAM_API_KEY"
+      ],
+      "version": "1.0.0"
+    },
+    "checkedAt": "2026-10-27T15:04:37.219Z"
+  },
+  "lastUpdated": "2026-10-27T15:10:10.159Z"
+}
