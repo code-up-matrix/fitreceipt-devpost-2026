@@ -1,0 +1,13 @@
+{
+  "name": "FitReceipt",
+  "requiredEnv": [
+    "DATABASE_URL",
+    "SESSION_SECRET",
+    "APP_ORIGIN",
+    "OPERATOR_ACCESS_CODE",
+    "JUDGE_ACCESS_CODE",
+    "CRON_SECRET",
+    "YOUCAM_API_KEY"
+  ],
+  "event": "https://youcam-api-skin-ai-ecommerce.devpost.com/"
+}
